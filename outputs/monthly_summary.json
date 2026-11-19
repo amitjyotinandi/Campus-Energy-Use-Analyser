@@ -1,0 +1,142 @@
+[
+  {
+    "building": "Admin",
+    "month": "2026-01",
+    "total": 4041.9,
+    "average": 134.7,
+    "peak": 164.0
+  },
+  {
+    "building": "Admin",
+    "month": "2026-02",
+    "total": 5175.2,
+    "average": 191.7,
+    "peak": 908.8
+  },
+  {
+    "building": "Admin",
+    "month": "2026-03",
+    "total": 4142.6,
+    "average": 138.1,
+    "peak": 172.5
+  },
+  {
+    "building": "Admin",
+    "month": "2026-04",
+    "total": 4147.0,
+    "average": 138.2,
+    "peak": 175.2
+  },
+  {
+    "building": "Admin",
+    "month": "2026-05",
+    "total": 4213.4,
+    "average": 140.4,
+    "peak": 182.7
+  },
+  {
+    "building": "Hostel",
+    "month": "2026-01",
+    "total": 11805.1,
+    "average": 380.8,
+    "peak": 415.9
+  },
+  {
+    "building": "Hostel",
+    "month": "2026-02",
+    "total": 10581.0,
+    "average": 377.9,
+    "peak": 421.5
+  },
+  {
+    "building": "Hostel",
+    "month": "2026-03",
+    "total": 11245.5,
+    "average": 374.8,
+    "peak": 419.5
+  },
+  {
+    "building": "Hostel",
+    "month": "2026-04",
+    "total": 11025.3,
+    "average": 380.2,
+    "peak": 437.4
+  },
+  {
+    "building": "Hostel",
+    "month": "2026-05",
+    "total": 11058.8,
+    "average": 381.3,
+    "peak": 441.3
+  },
+  {
+    "building": "LabBlock",
+    "month": "2026-01",
+    "total": 9075.2,
+    "average": 302.5,
+    "peak": 1283.8
+  },
+  {
+    "building": "LabBlock",
+    "month": "2026-02",
+    "total": 7266.7,
+    "average": 269.1,
+    "peak": 347.4
+  },
+  {
+    "building": "LabBlock",
+    "month": "2026-03",
+    "total": 8155.0,
+    "average": 271.8,
+    "peak": 341.6
+  },
+  {
+    "building": "LabBlock",
+    "month": "2026-04",
+    "total": 8287.1,
+    "average": 276.2,
+    "peak": 337.8
+  },
+  {
+    "building": "LabBlock",
+    "month": "2026-05",
+    "total": 8151.8,
+    "average": 281.1,
+    "peak": 371.5
+  },
+  {
+    "building": "Library",
+    "month": "2026-01",
+    "total": 6186.5,
+    "average": 199.6,
+    "peak": 260.2
+  },
+  {
+    "building": "Library",
+    "month": "2026-02",
+    "total": 6521.2,
+    "average": 232.9,
+    "peak": 1051.3
+  },
+  {
+    "building": "Library",
+    "month": "2026-03",
+    "total": 6221.2,
+    "average": 200.7,
+    "peak": 262.7
+  },
+  {
+    "building": "Library",
+    "month": "2026-04",
+    "total": 6908.1,
+    "average": 230.3,
+    "peak": 1126.9
+  },
+  {
+    "building": "Library",
+    "month": "2026-05",
+    "total": 6095.1,
+    "average": 203.2,
+    "peak": 248.6
+  }
+]
