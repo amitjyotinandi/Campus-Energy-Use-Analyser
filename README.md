@@ -53,4 +53,11 @@ Synthetic data only, a simple z-score rule (a large spike can inflate the
 standard deviation), and no real-time input.
 
 ## Team contributions
-(fill in names and what each person did)
+This is an individual project submitted by:
+
+- Name: Amitjyoti Nandi
+- Roll Number: 67
+- Section: A2
+- Department: Electronics and Communication Engineering
+
+As the sole project member, I am responsible for the project implementation, dataset preparation, data analysis, testing, result generation, and project documentation.
